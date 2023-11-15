@@ -3,7 +3,8 @@ Intuito desse repositório é aprender power b.i comigo, tal como quando vemos S
 
 Dica! → Fórmula Switch utilizada para que eu consiga aplicar várias condições numa mesma fórmula. Abaixo são todas as fórmulas chave que podem te auxiliar.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1ac2abe9-3861-4bdd-a3a6-d9e5e04315e9/dd5924ee-3fa5-43d8-bb87-ff9e54247a10/Untitled.png)
+![image](https://github.com/cecicondor/LearninPBIWithCondor/assets/101957373/fe7d756f-67f6-410a-98c4-20208051184a)
+
 
 ---
 
@@ -19,7 +20,8 @@ Para criar uma medida com outras medidas, tipo: faturamento total - custo total 
 
 Caso você tenha muitas medidas, é necessário que você crie uma tabela em branco para armazenar todas as suas medidas, será importante por bons costumes e assim você não se perde em meio a tratativa. E para criar essa nova tabela, clica em inserir dados → assim carrega numa nova tabela em branco para imputar suas medidas. E automaticamente cria uma nova tabela para você.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1ac2abe9-3861-4bdd-a3a6-d9e5e04315e9/afd8b79e-e404-4235-b2b1-a43377d4425a/Untitled.png)
+![image](https://github.com/cecicondor/LearninPBIWithCondor/assets/101957373/ee114135-9821-46a6-a48c-cb062e371a10)
+
 
 ### AVERAGE
 
@@ -37,4 +39,5 @@ MIN = ([sua coluna de referencia])
 
 O exemplo do divide para utilizar, o resultado alternativo é para utilizar caso tenha algum erro, você pode colocar como ZERO, assim retorna 0 caso dê algum erro.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1ac2abe9-3861-4bdd-a3a6-d9e5e04315e9/b740545e-ef12-4e3c-bf21-1fe355f6fd9f/Untitled.png)
+![image](https://github.com/cecicondor/LearninPBIWithCondor/assets/101957373/dbf6d057-8696-475e-b86b-3e968bd5bb28)
+
